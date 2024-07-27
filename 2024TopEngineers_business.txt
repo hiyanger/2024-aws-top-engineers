@@ -1,0 +1,32 @@
+その他、AWS ビジネスに貢献した技術的な活動活動実績を最大3つまで記載いただけます。
+
+①下記ワークショップ系に参加し、参加者と技術を高め合いました。またZennにて記事も作成し、パブリックへの共有も行いました。
+
+・AWS Partner Tech Study Day 運用上の優秀性　（AWS well-arch-minibootcamp 2023/11/21）
+https://zenn.dev/hiyanger/scraps/c3444e7d7e6323
+
+・AWS well-arch-minibootcamp セキュリティの柱（20240129）
+https://zenn.dev/hiyanger/scraps/2553e6e5ca3f71
+
+・AWS GameDay 運用（2023/12/19）
+https://zenn.dev/hiyanger/scraps/be27b52c2581e8
+
+・2024/3/18 AWS GameDay サーバレス（2024/3/18）
+https://zenn.dev/hiyanger/scraps/522836179d2f33
+
+
+②ハンズオン記事
+AWS公式のサーバレスのハンズオンを個人的に実施しました。ハンズオンのクオリティが高ったので、促進も兼ねて実施内容をブログにしました。https://zenn.dev/iret/articles/78e69d0fdde153
+
+③コミュニティやSNSでのAWS活動促進
+connpassを起点に全18のAWSの技術イベントに参加し、イベント参加者として界隈を盛り上げました。各イベントでは参加者と積極的に交流を図り、知識の共有を行いました。これらのイベント活動はZennの記事やScrapsに記録もしています。またXでも自分や他社の技術活動やアップデート情報等をキャッチアップし、拡散活動をしました。
+
+・connpass
+https://connpass.com/user/hiyanger/
+
+・Zenn
+https://zenn.dev/hiyanger
+https://zenn.dev/hiyanger?tab=scraps
+
+・X
+https://twitter.com/hiyanger

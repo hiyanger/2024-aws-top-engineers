@@ -1,0 +1,8 @@
+リード技術としての活動 400字以内
+社内向けに行った活動 (例 : 社内エンジニア育成活動 / 社内登壇 / ナレッジシェア等) についての説明
+
+・社内登壇：KDDIアジャイル開発センター、KDDIウェブコミュニケーション、Scrum Inc.Japan、フライフィール、アイレットが所属するKDDI Digital Divergence Holdingsグループむけに、CloudFormationの利用促進を目的とした登壇を行いました。※参考：2023/11/2 KDDI Digital Divergence Holdings / IaC（CloudFormaitonでログ運用と監視システムを作ってみて） https://speakerdeck.com/hiyanger/itinhuranokodohua-iac-kdh-20231103
+
+・ナレッジシェア：Codeシリーズで作成したCICDパイプラインを社内で再利用できるように標準化しました。具体的な実施内容としては、コードの展開（IaC）、設計書、課題と対策等をドキュメント化しています。また実際のパイプラインの利用方法はTerraformを絡めてハンズオンを社内メンバーに実施してもらいました。※参考：2024/3/12 AWS Codeシリーズ Terraformパイプライン 勉強会/ハンズオン https://speakerdeck.com/hiyanger/hanzuon
+
+・社内エンジニア育成：社内に定期的なAWSの登壇の場がなかったので、外部発信を担当している部署に自らかけあい、企画運営スタッフとしてAWSのLT会を開催しました。社員へのLT機会の提供、ナレッジ共有や技術活動への刺激につながることを目的としています。※参考 第1回 雲勉LT大会 AWSをテーマに社内でLT大会をやってみた https://www.youtube.com/watch?v=EVdUQx4jCkE

@@ -1,0 +1,64 @@
+パブリックコントリビューション 400字以内
+社外向けに行った活動 (例 : ブログ / ホワイトペーパー / 書籍 /外部登壇等) についての説明
+パブリックコントリビューションを証明する URL
+
+①書籍：技術書典15にてCloudFormationのハンズオン本を販売し、134冊の本を販売することができました。また、Zennにて同じくCloudFormationのハンズオン本を1冊、Codeシリーズを使ったパイプラインのハンズオン本を1冊作成/販売しています。
+
+・技術書典 / AWS CloudFormationで作るログ運用と監視システム）/ 販売数：134冊
+https://techbookfest.org/product/0T5v5xXrsWvH3MjWUKEne?productVariantID=cUiUKYt4ye7hyMxEtwQHgN
+
+・Zenn Books / 【ハンズオン】AWS CloudFormationで作るログ運用と監視システム
+https://zenn.dev/hiyanger/books/6d510a8f66093a
+
+・Zenn Books / 【ハンズオン】AWS Codeシリーズで作る TerraformクロスアカウントCICDパイプライン
+https://zenn.dev/hiyanger/books/b0b44934058cf2
+
+
+■外部登壇：6本の外部登壇を行いました。内容はCloudFormationやCodeシリーズの話を中心としています。
+
+・2023/9/26 JAWS-UG東京 ランチタイムLT会 #3 / 参加者：オンライン 119名 / AWS CloudFormationで作るログ運用と監視システム
+https://jawsug.connpass.com/event/295301/
+https://speakerdeck.com/hiyanger/aws-cloudformationtezuo-rurokuyun-yong-tojian-shi-sisutemu
+
+・2023/10/26目黒LT #8 / 参加者：オフライン 45名 / AWS CloudFormationとTerraformを 比較してみた
+https://meguro-lt.connpass.com/event/295777/
+https://speakerdeck.com/hiyanger/cloudformationtoterraformwo-bi-jiao-sitemita
+
+・2023 11/21 Cloud Security Day 2023 / 参加者：オフライン 50名程度 / AWS環境にTenableかけてみた
+https://increments.connpass.com/event/298906/
+https://speakerdeck.com/hiyanger/cloud-security-day-2023-awshuan-jing-nitenablesitara-warawarawen-ti-gadetahua
+
+・2024/1/18 jaws朝会 / 参加者：オンライン 77名 / AWS Codeシリーズで作るTerraformのCICDパイプラインの概要
+https://jawsug-asa.connpass.com/event/301825/
+https://speakerdeck.com/hiyanger/codesirizudezuo-ruterraformnocicdpaipurain
+
+・2024/1/25【サーバーワークス主催】クラウドエンジニア交流会【LT大会もあるぞ！】 / 参加者：オフライン 30名 / AWS Codeシリーズを使った TerraformのCICDパイプラインの作り方
+https://serverworks.connpass.com/event/304983/
+https://speakerdeck.com/hiyanger/aws-codesirizuwoshi-tuta-terraformnocicdpaipurainnozuo-rifang
+
+・2024/2/26（セゾン情報システムズ）color is【クラウドLT大会vol.7】フリーテーマ！ / 参加者：オンライン 38名 / AWS Codeシリーズで構築したTerraformパイプラインのユーザー側IAM
+https://saison-coloris.connpass.com/event/308746/
+https://speakerdeck.com/hiyanger/aws-codesirizudegou-zhu-sitaterraformpaipurainnoyuzace-iam
+
+■ブログ：QiitaにてCloudFormationの記事を6件、Codeシリーズに関する記事を1件書きました。
+
+・【AWS】CloudFormationでEC2をデプロイしつつ運用も考える / 1804 views
+https://qiita.com/hiyanger/items/3a47c39bddd8ccd99f64
+
+・【AWS】CloudFormationで必要最低限なCLIをまとめてみた / 2199 views
+https://qiita.com/hiyanger/items/245d96312248017701b0
+
+・【AWS】CloudFormationでネストされたスタックを動かしてみる / 1390 views
+https://qiita.com/hiyanger/items/ce58e3ea0f46b381afe8
+
+・【AWS】CloudFormationでクロススタックしてみた / 1436 views
+https://qiita.com/hiyanger/items/0881229b233f13b0914f
+
+・【AWS】CloudFormationでS3バケット削除時にカスタムリソースを使ってオブジェクトも一緒に削除する / 1250 views
+https://qiita.com/hiyanger/items/5b00cb5ebc7128b178c0
+
+・【AWS】CloudFormationでよく使われる関数をわかりやすく解説する / 2008 views
+https://qiita.com/hiyanger/items/e931b2e267e91e97084e
+
+・【AWS】CodeCommitとS3を同期させる / 1176 views
+https://qiita.com/hiyanger/items/ae2485d726b7a40049d6
